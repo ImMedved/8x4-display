@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\Debug\8x4 display.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>8x4 display.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>8x4 display.map</FILE>
+  <FILE>8x4 display.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>6</LINE></setup>
+  <loop><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>260</LINE></loop>
+  <timer><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>45</LINE></timer>
+  <timer_loop><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>49</LINE></timer_loop>
+  <timer_r25_inc><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>61</LINE></timer_r25_inc>
+  <timer_after_comparison><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>54</LINE></timer_after_comparison>
+  <timer_end><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>65</LINE></timer_end>
+  <draw><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>71</LINE></draw>
+  <draw_digit><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>98</LINE></draw_digit>
+  <update_table><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>109</LINE></update_table>
+  <update_digit_0><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>131</LINE></update_digit_0>
+  <update_digit_1><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>144</LINE></update_digit_1>
+  <update_digit_2><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>157</LINE></update_digit_2>
+  <update_digit_3><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>170</LINE></update_digit_3>
+  <detect_input><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>185</LINE></detect_input>
+  <left><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>206</LINE></left>
+  <right><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>221</LINE></right>
+  <up><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>232</LINE></up>
+  <down><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>247</LINE></down>
+  <pos_bottom_bound><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>217</LINE></pos_bottom_bound>
+  <num_upper_bound><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>243</LINE></num_upper_bound>
+  <end><FILE>c:\users\alexander\Documents\Atmel Studio\7.0\8x4 display\8x4 display\main.asm</FILE><LINE>270</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
